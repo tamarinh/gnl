@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: fde-jesu <fde-jesu@student.42porto.com>    +#+  +:+       +#+        */
+/*   By: tamarinh <tamarinh@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/21 22:45:38 by fde-jesu          #+#    #+#             */
-/*   Updated: 2024/06/21 23:19:34 by tamarinh         ###   ########.fr       */
+/*   Created: 2024/06/22 04:12:34 by tamarinh          #+#    #+#             */
+/*   Updated: 2024/06/22 04:12:37 by tamarinh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
